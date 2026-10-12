@@ -19,4 +19,4 @@ I like automating things, simplifying workflows, and experimenting with new idea
 
 ---
 
-⭐️ _“Simple tools, clean code, and practical automation — that’s what I build.”_
+⭐️ _“Wubba Lubba Dub Dub, I LOVE OZZY OSBOURNE and SERJ TANKIAN so basically i am INVINCIBLE”_
