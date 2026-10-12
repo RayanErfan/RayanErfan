@@ -6,9 +6,9 @@ I like automating things, simplifying workflows, and experimenting with new idea
 ---
 
 ### 💻 Tech Stack
-- **Languages:** Python, JavaScript, TypeScript  
+- **Languages:** Python, Dart, PHP, JavaScript (vibe code) , TypeScript (vibe code), 
 - **Frameworks:** Telethon, Aiogram, FastAPI, Express.js  
-- **Databases:** PostgreSQL, Redis, MongoDB  
+- **Databases:** MongoDB, MySQL, PostgreSQL, Redis  
 - **Tools:** PM2, Docker, Linux (Arch)  
 
 ---
